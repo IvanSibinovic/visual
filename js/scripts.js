@@ -214,7 +214,7 @@
     });
     /* -------------------
     Preloader
-    ---------------------*/
+    ---------------------
     $(window).load(function(){ 
         // Preloader 
         $('#loader').fadeOut('slow');
